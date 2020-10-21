@@ -1,1 +1,2 @@
-# C-21-CORE-ACTIVITES
+# collisionAlgorithm
+Algorithm to detect collision between two objects
